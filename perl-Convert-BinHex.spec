@@ -13,6 +13,7 @@ Requires:	perl
 URL:		http://www.cpan.org
 Source:		%{module}-%{version}.tar.bz2
 BuildRequires:	perl-devel
+Buildroot:	%{_tmppath}/%{name}-root
 BuildArch:	noarch
 
 %description
