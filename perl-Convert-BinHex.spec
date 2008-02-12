@@ -17,7 +17,6 @@ Buildroot:	%{_tmppath}/%{name}-root
 BuildArch:	noarch
 
 %description
-
 Convert::BinHex is used to extract data from Macintosh BinHex files
 
 %prep
