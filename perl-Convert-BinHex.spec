@@ -1,7 +1,7 @@
 %define module	Convert-BinHex
 %define name	perl-%{module}
 %define version 1.119
-%define release %mkrel 10
+%define release 11
 
 Summary:	Extract data from Macintosh BinHex files
 Name:		%{name}
