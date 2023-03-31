@@ -3,7 +3,7 @@
 Summary:	Extract data from Macintosh BinHex files
 Name:		perl-%{module}
 Version:	1.125
-Release:	1
+Release:	2
 License:	GPLv2
 Group:		Development/Perl
 Requires:	perl
