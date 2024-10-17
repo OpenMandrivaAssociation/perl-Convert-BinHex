@@ -7,7 +7,7 @@ Release:	2
 License:	GPLv2
 Group:		Development/Perl
 Requires:	perl
-Url:		http://www.cpan.org
+Url:		https://www.cpan.org
 Source0:	http://www.cpan.org/modules/by-module/Convert/%{module}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	perl-devel
