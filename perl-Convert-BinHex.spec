@@ -1,9 +1,12 @@
 %define module	Convert-BinHex
 
+# Exclude MacOS specific deps
+%define __requires_exclude ^.*Mac::Files.*$
+
 Summary:	Extract data from Macintosh BinHex files
 Name:		perl-%{module}
 Version:	1.125
-Release:	2
+Release:	3
 License:	GPLv2
 Group:		Development/Perl
 Requires:	perl
